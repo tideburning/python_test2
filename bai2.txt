@@ -1,0 +1,12 @@
+PH?N 2: Foundational Machine Learning Skills
+1. Document
+	+ https://ml-book-vn.khanhxnguyen.com/intro.html
+	+ http://ml4vn.blogspot.com/2017/06/mot-so-khai-niem-trong-may-hoc.html
+	+ https://ongxuanhong.wordpress.com/2015/10/05/cach-xac-dinh-dang-bai-toan-trong-machine-learning/
+	+ https://ongxuanhong.wordpress.com/2015/08/20/tien-xu-ly-du-lieu-horse-colic-dataset/
+	+ https://ongxuanhong.wordpress.com/2016/01/31/lay-va-lam-sach-du-lieu-xu-ly-du-lieu-ngoai-lai-outliers/
+	+ https://ongxuanhong.wordpress.com/2015/08/25/danh-gia-mo-hinh-model-evaluation/
+2. Bài tap
+	+ Viet report cho tung quá trình cua mot bài toán hoc máy nói chung.
+	+ Tu 1000 diem gen trong phan 1 su dung thuat toán phân cum de phân các diem thành n cum (n = 5)
+	(Kmeans)
